@@ -1,0 +1,125 @@
+@charset "utf-8";
+
+
+.row .navbar-default {
+	background-color: #66CCFF;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(102,204,255,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(102,204,255,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(102,204,255,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(102,204,255,1.00) 100%);
+}
+.row .nav.navbar-nav > li > a:link  ,.row .nav.navbar-nav > li > a:visited{
+	border: solid 1px #1485CC;
+	color: #0971B2;
+	margin-left: 90px;
+}
+main.row article h1 {
+	font-family: source-sans-pro, "Trebuchet MS", Verdana, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	color: #787272;
+}
+main.row article h2 {
+	color: #787272;
+	font-family: source-sans-pro, "Trebuchet MS", Verdana, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+.container .row .col-lg-4 {
+}
+
+main.row aside h2 {
+	color: #787272;
+	font-family: source-sans-pro, "Trebuchet MS", Verdana, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+main.row aside p {
+	color: #787272;
+	font-family: source-sans-pro, "Trebuchet MS", Verdana, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+main.row aside p a:link, main.row aside p a:visited {
+	color: #787272;
+	font-family: source-sans-pro, "Trebuchet MS", Verdana, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+
+main.row article p a:link, main.row article p a:visited {
+	color: #787272;
+	font-family: source-sans-pro, "Trebuchet MS", Verdana, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+
+.row .nav.navbar-nav > li >a:hover {
+	background-image: -webkit-linear-gradient(90deg,rgba(102,204,255,1.00) 0%,rgba(134,160,200,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(90deg,rgba(102,204,255,1.00) 0%,rgba(134,160,200,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(90deg,rgba(102,204,255,1.00) 0%,rgba(134,160,200,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(0deg,rgba(102,204,255,1.00) 0%,rgba(134,160,200,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	color: #0971B2;
+	font-weight: bold;
+}
+.row .nav.navbar-nav {
+	margin: 0px auto;
+	width: 900px;
+	float: none;
+}
+.nav.navbar-nav li a {
+	border: solid 1px #0971B2;
+}
+
+header.row h2 {
+	font-family: source-sans-pro, "Trebuchet MS", Verdana, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	font-size: 38px;
+	color: #0971B2;
+}
+
+footer {
+	background-color: #ABE49D;
+	color: #3A8D26;
+	font-weight: bold;
+}
+
+
+
+
+main.row {
+	background-color: #D8D6D6;
+}
+
+
+header.row p {
+	color: #0971B2;
+	font-family: source-sans-pro, "Trebuchet MS", Verdana, Arial, sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+}
+header.row {
+	border: solid 2px #1485CC;
+	padding: 2px;
+	background-color: #B2E5FF;
+}
+section table {
+	font-style: normal;
+	font-weight: bold;
+	text-align: left;
+	width: 100%;
+	font-size: 90%;
+}
+section td, section th {
+	padding: 3px;
+
+}
+section th {
+	background-color: #898383;
+	text-align: center;
+}
+.row .col-lg-4 p {
+}
